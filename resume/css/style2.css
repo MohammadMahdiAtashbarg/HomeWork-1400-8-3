@@ -1,0 +1,18 @@
+body {
+    background-color: #FFCB09;
+    direction: rtl;
+    margin: 25px;
+}
+#header{
+    font-family: B-titr, Helvetica, sans-serif;
+    color: #0125FF;
+    text-align: center;
+}
+
+#mypic{
+    border-radius: 50px;
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin:auto auto;
+}
